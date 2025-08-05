@@ -1,73 +1,73 @@
-Developer Portfolio Template
+<h3>Developer Portfolio Template</h3>
 A modern, responsive, and content-rich single-page developer portfolio template built with React and Tailwind CSS. This template is designed for WP Experts and Frontend Developers to showcase their skills, projects, and testimonials effectively, providing a solid foundation for personal branding online.
 
-✨ Features
-Clean & Modern Design: Built with React and styled using Tailwind CSS for a sleek, responsive, and visually appealing interface.
+<h3>✨ Features</h3>
+<ol>
+<li>Clean & Modern Design: Built with React and styled using Tailwind CSS for a sleek, responsive, and visually appealing interface.</li>
 
-Single-Page Layout: All essential information is accessible on one page for a seamless user experience.
+<li>Single-Page Layout: All essential information is accessible on one page for a seamless user experience.</li>
 
-9 Dedicated Sections:
+<li>9 Dedicated Sections:</li>
+<ul>
+<li>Hero: Engaging introduction with a strong headline.</li>
 
-Hero: Engaging introduction with a strong headline.
+<li>About: Detailed professional background, expertise, and skill set.</li>
 
-About: Detailed professional background, expertise, and skill set.
+<li>Services: Comprehensive list of offerings including WP Development, Frontend Development, Website Maintenance, Security, Analytics, and Custom Development.</li>
 
-Services: Comprehensive list of offerings including WP Development, Frontend Development, Website Maintenance, Security, Analytics, and Custom Development.
+<li>Projects: Showcase of key projects with descriptions, technologies used, and features.</li>
 
-Projects: Showcase of key projects with descriptions, technologies used, and features.
+<li>Testimonials: Dynamic, movable carousel displaying client feedback.</li>
 
-Testimonials: Dynamic, movable carousel displaying client feedback.
+<li>FAQs: Interactive accordion-style section for common client questions with smooth animations.</li>
 
-FAQs: Interactive accordion-style section for common client questions with smooth animations.
+<li>Social Links: Easy access to your professional social media profiles.</li>
 
-Social Links: Easy access to your professional social media profiles.
+<li>Contact Us: A functional form for inquiries and direct contact information.</li>
 
-Contact Us: A functional form for inquiries and direct contact information.
+<li>Footer: Copyright and branding details.</li>
+</ul>
+<li>No Images: Designed to be rich in content and visually appealing without relying on external image assets.</li>
 
-Footer: Copyright and branding details.
+<li>WP & React Focused: Highlights expertise in both WordPress (referred to as WP) and modern React applications.</li>
 
-No Images: Designed to be rich in content and visually appealing without relying on external image assets.
+<li>SEO Optimized Content: Crafted with relevant keywords to help with search engine ranking.</li>
 
-WP & React Focused: Highlights expertise in both WordPress (referred to as WP) and modern React applications.
+<li>Fully Responsive: Adapts seamlessly to various screen sizes, from mobile phones and tablets to desktops.</li>
 
-SEO Optimized Content: Crafted with relevant keywords to help with search engine ranking.
-
-Fully Responsive: Adapts seamlessly to various screen sizes, from mobile phones and tablets to desktops.
-
-Customizable Color Scheme: Easily adaptable to your preferred brand colors.
-
-🚀 Getting Started
+<li>Customizable Color Scheme: Easily adaptable to your preferred brand colors.</li>
+</ol>
+<h3>🚀 Getting Started</h3>
 Follow these steps to get a copy of this project up and running on your local machine for development and testing purposes.
 
-Prerequisites
+<b>Prerequisites</b>
 Make sure you have Node.js and npm (or Yarn) installed on your machine.
 
-Installation
-Clone the repository:
+<b>Installation</b>
+<ol>
+<li>Clone the repository:</li>
 
 git clone https://github.com/zaheers-dev-lab/developer-portfolio-template.git
 
-
-
-Navigate into the project directory:
+<li>Navigate into the project directory:</li>
 
 cd developer-portfolio-template
 
-Install dependencies:
+<li>Install dependencies:</li>
 
 npm install
 # or
 yarn install
 
-Start the development server:
+<li>Start the development server:</li>
 
 npm start
 # or
 yarn start
 
 This will open the application in your browser at http://localhost:3000.
-
-🛠️ Customization
+</ol>
+<h3>🛠️ Customization</h3> <br>
 This template is designed to be easily customizable to fit your personal brand and portfolio needs.
 
 Edit Content:
@@ -85,9 +85,7 @@ You can easily add new sections or remove existing ones by adjusting the JSX str
 📄 License
 This project is open source and available under the MIT License. Feel free to use, modify, and distribute it for your personal and commercial projects.
 
-🙏 Acknowledgments
-Built with React
-
-Styled with Tailwind CSS
-
+<h3>🙏 Acknowledgments</h3>
+Built with React<br>
+Styled with Tailwind CSS<br>
 Icons from Lucide React
